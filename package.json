@@ -24,6 +24,7 @@
     "concurrently": "^5.1.0",
     "nodemon": "^2.0.3",
     "parcel": "^2.0.0-alpha.3.2",
+    "prettier": "^2.0.4",
     "typescript": "^3.8.3"
   }
 }
