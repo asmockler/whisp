@@ -1,0 +1,22 @@
+.Container {
+  align-items: center;
+  background: #111;
+  color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.LinkContainer {
+  padding: 10px;
+}
+
+.Link {
+  color: dodgerblue;
+  text-decoration: none;
+}
+
+.Link:hover {
+  text-decoration: underline;
+}
